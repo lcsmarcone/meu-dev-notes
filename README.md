@@ -6,6 +6,7 @@ Repositório de anotações e tutoriais rápidos sobre Linux, Git, Python, Docke
 - [Linux](./linux)
 - [Git](./git)
 - [Python](./python)
+- [QField](./qfield)
 - [Django](./docker)
 - [Web](./web)
 - [Outros](./outros)
